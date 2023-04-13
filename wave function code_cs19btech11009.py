@@ -20,3 +20,6 @@ plt.plot(r, R_nl(r))
 eq = "n="+ str(n)+ ", l="+str(l)
 p= (R_nl(0)+R_nl(12))/2                                   
 plt.text(6,p,eq, bbox=dict(facecolor='red', alpha=0.5))
+
+
+##im adding this new feature
